@@ -7,7 +7,7 @@ public static void main()()
 init():
 int x= 0;
 double d = 0.2;
-f(x,22,z);
+f(x,22,z,m,n);
 finalize();
 }
 >>>>>>> 62842afb3a4d27bfd4f2c66b9b42ea12e44b3f46
